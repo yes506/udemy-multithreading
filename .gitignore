@@ -39,3 +39,9 @@ build/
 
 ### Lecture ###
 **/src/lecture/
+
+### Github ###
+.githubaccesstoken
+
+### Intellij ###
+.idea/
